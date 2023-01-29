@@ -14,6 +14,4 @@ You can install these libraries by running the following command:
 <b>pip install -r requirements.txt</b>
 
 Usage
-The model can be trained and used to make predictions as follows:
-
-from linear_regression import LinearRegression
+The model can be trained and used to make predictions.
